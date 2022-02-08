@@ -7,5 +7,5 @@
 Link: https://drive.google.com/drive/folders/1HELUM4FBz85LisCEQFdg_iHRWOnpSGgw?usp=sharing
 
 
-Here is the link to the snapshot for 5,000,000 generated retina. 
+3) Here is the link to the snapshot for 5,000,000 generated retina. 
 https://drive.google.com/file/d/1-tM_XpWLoOOG2i8xNN75v3jPoy5mkMeh/view?usp=sharing
