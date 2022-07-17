@@ -11,6 +11,8 @@ Link: https://drive.google.com/drive/folders/1HELUM4FBz85LisCEQFdg_iHRWOnpSGgw?u
 Link: https://drive.google.com/file/d/1-tM_XpWLoOOG2i8xNN75v3jPoy5mkMeh/view?usp=sharing
 
 Use the following code to generate images:
+
+
 !python generate.py --outdir="Your prefered directory" --trunc=0.7 --seeds=1-5000000 \
     --network="directory to the pickle file 00003-Messidor_Left_Img1024-auto1-kimg5000-resumecustom/network-snapshot-000120.pkl"
     
