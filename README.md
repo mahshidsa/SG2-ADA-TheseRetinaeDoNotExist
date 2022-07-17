@@ -14,6 +14,6 @@ Use the following code to generate images:
 
 
 !python generate.py --outdir="Your prefered directory" --trunc=0.7 --seeds=1-5000000 \
-    --network="directory to the pickle file 00003-Messidor_Left_Img1024-auto1-kimg5000-resumecustom/network-snapshot-000120.pkl"
+    --network="directory to the pickle file network-snapshot-000120.pkl"
     
 4) Note: --trunc=0.7 will generate 70% of the images which have better quality.
