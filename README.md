@@ -7,6 +7,11 @@
 Link: https://drive.google.com/drive/folders/1HELUM4FBz85LisCEQFdg_iHRWOnpSGgw?usp=sharing
 
 
-3) Here is the link to the snapshot for 5,000,000 generated retina. Use the pkl file to generate the retinal images.
+3) Here is the link to the snapshot for 5,000,000 generated retina. Use the pickle file to generate the retinal images.
 Link: https://drive.google.com/file/d/1-tM_XpWLoOOG2i8xNN75v3jPoy5mkMeh/view?usp=sharing
 
+Use the following code to generate images:
+!python generate.py --outdir="Your prefered directory" --trunc=0.7 --seeds=1-5000000 \
+    --network="directory to the pickle file 00003-Messidor_Left_Img1024-auto1-kimg5000-resumecustom/network-snapshot-000120.pkl"
+    
+--trunc=0.7 will generate 70% of the images which have better quality.
