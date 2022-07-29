@@ -17,3 +17,4 @@ Use the following code to generate images:
     --network="directory to the pickle file network-snapshot-000120.pkl"
     
 4) Note: --trunc=0.7 will generate 70% of the images which have better quality.
+If you were not able to use the pickle file to generate the images using the above code, contact mahshid.sadeghpour@rmit.edu.au and we will share the images with you.
