@@ -12,7 +12,7 @@ Link: https://drive.google.com/file/d/1-tM_XpWLoOOG2i8xNN75v3jPoy5mkMeh/view?usp
 
 Use the following code to generate images:
 
-
+From "https://github.com/NVlabs/stylegan2-ada-pytorch", use SG2_ADA Pytorch code and run the following line
 !python generate.py --outdir="Your prefered directory" --trunc=0.7 --seeds=1-5000000 \
     --network="directory to the pickle file network-snapshot-000120.pkl"
     
